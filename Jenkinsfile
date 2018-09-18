@@ -1,3 +1,3 @@
 @Library('ChimeraTK') _
 
-test 'hi'
+test 'Ubuntu1604'
