@@ -2,7 +2,5 @@
 
 pipeline {
   agent any
-  stages {
-    test 'hi'
-  }
+  test 'hi'
 }
