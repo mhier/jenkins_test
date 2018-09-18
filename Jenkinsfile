@@ -6,7 +6,7 @@ pipeline {
     stage('build') {
       steps {
         echo "My BUILD step..."
-        test.MyTest
+        test.MyTest()
       }
     }
   }
